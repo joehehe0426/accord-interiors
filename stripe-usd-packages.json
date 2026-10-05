@@ -1,0 +1,32 @@
+[
+  {
+    "key": "Accord Interiors::Design Consultation",
+    "slug": "design-consultation",
+    "productId": "prod_VLRG5Drk5Qgcc9",
+    "prices": {
+      "usd": {
+        "priceId": "price_1UKkO8FCJQAnnbREvkHNvxB1",
+        "amount": 500
+      },
+      "hkd": {
+        "priceId": "price_1UKkPBFCJQAnnbREQTyC3UEQ",
+        "amount": 3900
+      }
+    }
+  },
+  {
+    "key": "Accord Interiors::Design Package",
+    "slug": "design-package",
+    "productId": "prod_VLRGT9gZCzmapG",
+    "prices": {
+      "usd": {
+        "priceId": "price_1UKkO9FCJQAnnbREn8ot0qHU",
+        "amount": 700
+      },
+      "hkd": {
+        "priceId": "price_1UKkPCFCJQAnnbREqI9sxDG2",
+        "amount": 5450
+      }
+    }
+  }
+]
