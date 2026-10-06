@@ -34,8 +34,8 @@ export const metadata: Metadata = {
     images: [
       {
         url: "/images/logo.png",
-        width: 2880,
-        height: 1440,
+        width: 800,
+        height: 696,
         alt: "Accord Interiors",
       },
     ],
